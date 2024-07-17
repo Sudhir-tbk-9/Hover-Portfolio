@@ -39,8 +39,8 @@ body{
     /* padding-top: 5rem; */
     background: var(--bg-color);
     color: var(--text-color);
-    background-image: url(images/OG/contact/envelope-1829490.jpg);
-   
+/*     background-image: url(images/OG/contact/envelope-1829490.jpg); */
+background-image:url(images/OG/contact/envelope-1829490.jpg);   
 }
 
 section{
@@ -66,7 +66,8 @@ section{
     justify-content: space-between;
     align-items: center;
     z-index: 100;
-    background-image: url(images/OG/contact/envelope-1829490.jpg);
+/*     background-image: url(images/OG/contact/envelope-1829490.jpg); */
+    background-image: url("images/OG/contact/envelope-1829490.jpg");
    
 }
 
